@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -544,6 +544,17 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#9b9b9b"
+            }
+          },
           "_anchor": "form1-3j",
           "_params": {
             "labelsColor": "#ffffff",
@@ -589,18 +600,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#9b9b9b"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -872,7 +872,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sebastian-valladares-png-384x1289.png",
+              "src": "@PROJECT_PATH@/assets/images/sebastian-valladares-png-384x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2156,7 +2156,7 @@
             "paddingBottom": "0",
             "bgColor": "#7e9b9f"
           },
-          "text": "<p><b><i>Continue Biography....</i></b></p><p><b><i><br></i></b></p><p><b><i><br></i></b></p><p><b><i>It was October 17, 2004 in the the Jacksonville Memorial Hosspital a child was born and that child was me. I have always loved computers since I was a small and curios child. I got exposed to technology quickly since I was born in the era where technology was getting more advanvced with the early versions of the iPhone and the blocky choppy computers it was hard to miss out on technology. I first got introduced &nbsp;to the web when I started doodling on the early version of MSpaint and other drawing programs. It was fun doodling cartoons, especially when trying to draw spongebob kipper the dog, it was a fun part of my life and it taught me how to use my mouse effectivaly when trying to draw. One day I downloaded a game called Minecraft, it was a huge open world with trees hills and other enviroments. The only objective of the game is to build and let the creativity run wild. The game taught me how to find joy and creativity in anyhting I see. It helped me develop my creative skills for the better. It also helped thath the game had playable mods to expand the game further. Downloading mods taught me how to use and extract files correctly and with out fail. Finally in the present day I still play Minecraft and now I edit textures in the game using multiple editing programs such as Adobe Photoshop, and Paint.Net. Now I am at MAS where my skills are being challanged every day and I absolutley love it.</i></b></p>"
+          "text": "<p><b><i>Continue Biography....</i></b></p><p><b><i><br></i></b></p><p><b><i><br></i></b></p><p><b><i>It was October 17, 2004 in the the Jacksonville Memorial Hospital a child was born and that child was me. I have always loved computers since I was a small and curios child. I got exposed to technology quickly since I was born in the era where technology was getting more advanvced with the early versions of the iPhone and the blocky choppy computers it was hard to miss out on technology. I first got introduced &nbsp;to the web when I started doodling on the early version of MSpaint and other drawing programs. It was fun doodling cartoons, especially when trying to draw Spongebob, and &nbsp;Kipper the dog, it was a fun part of my life and it taught me how to use my mouse effectivaly when trying to draw. One day I downloaded a game called Minecraft, it was a huge open world with trees hills and other enviroments. The only objective of the game is to build and let the creativity run wild. The game taught me how to find joy and creativity in anyhting I see. It helped me develop my creative skills for the better. It also helped thath the game had playable mods to expand the game further. Downloading mods taught me how to use and extract files correctly and with out fail. Finally in the present day I still play Minecraft and now I edit textures in the game using multiple editing programs such as Adobe Photoshop, and Paint.Net. Now I am at MAS where my skills are being challanged every day and I absolutley love it.</i></b></p>"
         },
         {
           "_tags": [
