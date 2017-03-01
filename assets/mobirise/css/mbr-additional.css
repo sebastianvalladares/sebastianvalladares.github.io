@@ -478,6 +478,10 @@ h6,
 #menu-6 .close-icon::after {
   background-color: #efefef;
 }
+#social-buttons4-3n .mbr-section-title,
+#social-buttons4-3n .btn-social {
+  color: #fff;
+}
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -544,6 +548,10 @@ h6,
 #menu-8 .close-icon::before,
 #menu-8 .close-icon::after {
   background-color: #efefef;
+}
+#social-buttons4-3o .mbr-section-title,
+#social-buttons4-3o .btn-social {
+  color: #fff;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
@@ -621,6 +629,10 @@ h6,
 #form1-3j SMALL {
   color: #9b9b9b;
 }
+#social-buttons4-3p .mbr-section-title,
+#social-buttons4-3p .btn-social {
+  color: #fff;
+}
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -687,6 +699,10 @@ h6,
 #menu-e .close-icon::before,
 #menu-e .close-icon::after {
   background-color: #efefef;
+}
+#social-buttons4-3r .mbr-section-title,
+#social-buttons4-3r .btn-social {
+  color: #fff;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -773,6 +789,10 @@ h6,
 #header3-3a .mbr-section-title,
 #header3-3a .mbr-section-subtitle {
   text-align: center;
+}
+#social-buttons4-3m .mbr-section-title,
+#social-buttons4-3m .btn-social {
+  color: #fff;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -869,6 +889,10 @@ h6,
 #header3-2q .mbr-section-subtitle {
   text-align: center;
 }
+#social-buttons4-3l .mbr-section-title,
+#social-buttons4-3l .btn-social {
+  color: #fff;
+}
 
 
 
@@ -956,4 +980,8 @@ h6,
 #features4-2k .card-subtitle SPAN {
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
+}
+#social-buttons4-3k .mbr-section-title,
+#social-buttons4-3k .btn-social {
+  color: #fff;
 }
