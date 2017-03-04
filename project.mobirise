@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -149,6 +149,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-3w",
           "_params": {
             "parallax": true,
@@ -171,12 +176,7 @@
           },
           "title": "This is My Personal Art<br>Gallery",
           "text": "~Have a look at my art~",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page4.html#gallery1-3y\" data-toolbar=\"-mbrBtnMove\">Check out my art</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page4.html#gallery1-3y\" data-toolbar=\"-mbrBtnMove\">Check out my art</a>"
         },
         {
           "_styles": {
@@ -212,8 +212,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/i-love-bread-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/i-love-bread-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
