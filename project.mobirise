@@ -224,26 +224,28 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/i-ma-a-fan-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/i-ma-a-fan-2000x1333.jpg",
-                "caption": "Plastic Beach recreation",
-                "active": true
+                "caption": "Plastic Beach Recreation",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/sebastian-vallllada-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sebastian-vallllada-2000x1333.jpg",
+                "caption": "Documentary Cover",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/frank-sinatra-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-sinatra-2000x1333.jpg",
+                "caption": "Frank Sinatra Album Cover",
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1004,7 +1006,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/craxy-ladkfd-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/craxy-ladkfd-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "\u001bHillary Clinton",
                 "active": true
               },
               {
@@ -1014,7 +1016,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-recovered-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-recovered-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Donald Trump",
                 "active": false
               },
               {
@@ -1024,7 +1026,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/why-me-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/why-me-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Star Trek",
                 "active": false
               },
               {
@@ -1034,7 +1036,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/uhhh-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/uhhh-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Darth Vaders Dream",
                 "active": false
               },
               {
@@ -1044,7 +1046,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/plz-help-me-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/plz-help-me-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Clean Lady",
                 "active": false
               },
               {
@@ -1054,7 +1056,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ohh-plaze-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ohh-plaze-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Crumpled Picture",
                 "active": false
               },
               {
@@ -1064,7 +1066,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/oh-baby-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/oh-baby-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Valladares Layer Mask",
                 "active": false
               },
               {
@@ -1074,7 +1076,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jam-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jam-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Rolo Recreation",
                 "active": false
               },
               {
@@ -1084,7 +1086,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/my-life-2-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/my-life-2-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Batman Recreation",
                 "active": false
               },
               {
@@ -1094,7 +1096,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/nutshckj-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/nutshckj-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Flash Recreation",
                 "active": false
               },
               {
@@ -1104,7 +1106,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/my-life-a-mrs-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/my-life-a-mrs-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Hulk Recreation",
                 "active": false
               },
               {
@@ -1114,7 +1116,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/my-life-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/my-life-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Iron Man Recreation",
                 "active": false
               },
               {
@@ -1124,7 +1126,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fried-noodls-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/fried-noodls-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Avengers Recreation",
                 "active": false
               },
               {
@@ -1134,7 +1136,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/oh-mah-god-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/oh-mah-god-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Album Cover",
                 "active": false
               },
               {
@@ -1144,7 +1146,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/balka-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/balka-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Lyric Cover",
                 "active": false
               },
               {
@@ -1154,7 +1156,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/da-je-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/da-je-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Vinyl Record",
                 "active": false
               },
               {
@@ -1164,7 +1166,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/robert-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/robert-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Album Showcase",
                 "active": false
               },
               {
@@ -1174,7 +1176,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rdgrdg-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rdgrdg-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 1 Tiger",
                 "active": false
               },
               {
@@ -1184,7 +1186,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/p-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 1 Car",
                 "active": false
               },
               {
@@ -1194,7 +1196,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/op-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/op-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 1 Eye",
                 "active": false
               },
               {
@@ -1204,7 +1206,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/clinton-eyes-1-sres-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/clinton-eyes-1-sres-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 1 Tucan",
                 "active": false
               },
               {
@@ -1214,7 +1216,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/po-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/po-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 1 Bald Eagle&nbsp;",
                 "active": false
               },
               {
@@ -1224,7 +1226,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/my-life-eeee-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/my-life-eeee-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 2 Car",
                 "active": false
               },
               {
@@ -1234,7 +1236,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/my-life-d-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/my-life-d-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 2 Tiger",
                 "active": false
               },
               {
@@ -1244,7 +1246,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/my-life-ffgf-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/my-life-ffgf-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 2 Bald Eagle",
                 "active": false
               },
               {
@@ -1254,7 +1256,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/my-life-t-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/my-life-t-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 2 Tucan",
                 "active": false
               },
               {
@@ -1264,7 +1266,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/car-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/car-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 3 Car",
                 "active": false
               },
               {
@@ -1274,7 +1276,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/i-noiw-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/i-noiw-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 3 Tucan&nbsp;",
                 "active": false
               },
               {
@@ -1284,7 +1286,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/my-life-eye-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/my-life-eye-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 3 Eye",
                 "active": false
               },
               {
@@ -1294,7 +1296,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/my-life-tiger-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/my-life-tiger-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 3 Tiger",
                 "active": false
               },
               {
@@ -1304,7 +1306,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/you-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/you-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 3 Bald Eagle",
                 "active": false
               },
               {
@@ -1314,7 +1316,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/a-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/a-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 4 Eye",
                 "active": false
               },
               {
@@ -1324,7 +1326,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/b-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/b-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 4 Car",
                 "active": false
               },
               {
@@ -1334,7 +1336,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/c-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/c-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 4 Tucan",
                 "active": false
               },
               {
@@ -1344,7 +1346,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/d-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/d-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 4 Tiger",
                 "active": false
               },
               {
@@ -1354,7 +1356,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/e-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/e-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 4 Bald Eagle",
                 "active": false
               },
               {
@@ -1364,7 +1366,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 5 Tiger",
                 "active": false
               },
               {
@@ -1374,7 +1376,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 5 Eye",
                 "active": false
               },
               {
@@ -1384,7 +1386,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/3-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 5 Tucan",
                 "active": false
               },
               {
@@ -1394,7 +1396,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/4-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 5 Bald Eagle",
                 "active": false
               },
               {
@@ -1404,7 +1406,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/5-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/5-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Action 5 Car",
                 "active": false
               },
               {
@@ -1414,7 +1416,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/12d3-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/12d3-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "MDCPS Logo",
                 "active": false
               },
               {
@@ -1424,7 +1426,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/feelll-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/feelll-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "MDCPS Logo 2",
                 "active": false
               },
               {
@@ -1434,12 +1436,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whyme-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/whyme-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Star Wars Rouge 1 Recreation",
                 "active": false
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#403636",
             "filterBgColor": false,
