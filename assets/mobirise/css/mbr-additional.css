@@ -727,6 +727,18 @@ h6,
 #header3-3a .mbr-section-subtitle {
   text-align: center;
 }
+#header3-4u .mbr-section-title,
+#header3-4u .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-4x .mbr-section-title,
+#msg-box8-4x p {
+  color: #fff;
+}
+#header3-4v .mbr-section-title,
+#header3-4v .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons4-3m .mbr-section-title,
 #social-buttons4-3m .btn-social {
   color: #fff;
