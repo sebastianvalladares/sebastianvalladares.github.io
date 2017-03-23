@@ -746,6 +746,17 @@ h6,
 #social-buttons4-3m .btn-social {
   color: #fff;
 }
+#header3-2r .mbr-section-title,
+#header3-2r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2q .mbr-section-title,
+#header3-2q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2q H3 {
+  color: #ffffff;
+}
 #header3-2p .mbr-section-title,
 #header3-2p .mbr-section-subtitle {
   text-align: center;
@@ -759,12 +770,8 @@ h6,
   color: #212020;
   text-align: center;
 }
-#header3-2r .mbr-section-title,
-#header3-2r .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2q .mbr-section-title,
-#header3-2q .mbr-section-subtitle {
+#header3-58 .mbr-section-title,
+#header3-58 .mbr-section-subtitle {
   text-align: center;
 }
 #social-buttons4-3l .mbr-section-title,
