@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 197,
+    "uniqCompNum": 200,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1968,7 +1968,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2002,7 +2002,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sebastian-valladares-png-384x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/sebastian-valladares-png-384x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2036,7 +2036,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -2057,7 +2057,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-5f",
+          "_anchor": "header3-5j",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -2084,7 +2084,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#232121",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "See a little bit of my art....",
@@ -2185,7 +2185,7 @@
           "_anchor": "header3-2p",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#000000",
             "showMeta": true
           },
@@ -2230,6 +2230,26 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-5i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#101010",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-5a",
           "_params": {
             "paddingTop": "0",
@@ -2253,14 +2273,14 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-3l",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
+            "bgColor": "#000000",
             "bgColorRadio": true,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
@@ -2279,7 +2299,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
