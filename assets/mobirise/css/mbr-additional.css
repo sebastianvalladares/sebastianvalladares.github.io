@@ -746,8 +746,75 @@ h6,
 #social-buttons4-3m .btn-social {
   color: #fff;
 }
-#header3-2r .mbr-section-title,
-#header3-2r .mbr-section-subtitle {
+#menu-5g .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-5g .navbar-caption {
+  color: #ffffff;
+}
+#menu-5g .navbar-toggler {
+  color: #ffffff;
+}
+#menu-5g .link,
+#menu-5g .dropdown-item {
+  color: #ffffff;
+}
+#menu-5g .link {
+  font-size: 0.7rem;
+}
+#menu-5g .dropdown-item,
+#menu-5g .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#menu-5g .link:hover,
+#menu-5g .dropdown-item:hover,
+#menu-5g .link:focus,
+#menu-5g .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-5g .link[aria-expanded="true"],
+#menu-5g .dropdown-menu {
+  background: #000000;
+}
+#menu-5g .nav-dropdown-sm .link:focus,
+#menu-5g .nav-dropdown-sm .link:hover,
+#menu-5g .nav-dropdown-sm .dropdown-item:focus,
+#menu-5g .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-5g .navbar,
+#menu-5g .nav-dropdown-sm,
+#menu-5g .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-5g .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-5g .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-5g .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-5g .bg-color.transparent.opened .link:hover,
+#menu-5g .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-5g .link[aria-expanded="true"],
+#menu-5g .dropdown-item[aria-expanded="true"] {
+  color: #c0a375 !important;
+}
+#menu-5g.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-5g .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-5g .close-icon::before,
+#menu-5g .close-icon::after {
+  background-color: #ffffff;
+}
+#header3-5f .mbr-section-title,
+#header3-5f .mbr-section-subtitle {
   text-align: center;
 }
 #header3-2q .mbr-section-title,
@@ -757,93 +824,21 @@ h6,
 #header3-2q H3 {
   color: #ffffff;
 }
+#header3-5e .mbr-section-title,
+#header3-5e .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-2p .mbr-section-title,
 #header3-2p .mbr-section-subtitle {
   text-align: center;
 }
-#content8-35 .mbr-section-title,
-#content8-35 p {
-  text-align: right;
-  color: #fff;
-}
-#content8-35 .mbr-section-title {
-  color: #212020;
-  text-align: center;
-}
-#header3-58 .mbr-section-title,
-#header3-58 .mbr-section-subtitle {
+#header3-5a .mbr-section-title,
+#header3-5a .mbr-section-subtitle {
   text-align: center;
 }
 #social-buttons4-3l .mbr-section-title,
 #social-buttons4-3l .btn-social {
   color: #fff;
-}
-#menu-0 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-0 .navbar-caption {
-  color: #ffffff;
-}
-#menu-0 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-0 .link,
-#menu-0 .dropdown-item {
-  color: #ffffff;
-}
-#menu-0 .link {
-  font-size: 0.7rem;
-}
-#menu-0 .dropdown-item,
-#menu-0 .nav-dropdown-sm .link {
-  font-size: 0.758rem;
-}
-#menu-0 .link:hover,
-#menu-0 .dropdown-item:hover,
-#menu-0 .link:focus,
-#menu-0 .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-0 .link[aria-expanded="true"],
-#menu-0 .dropdown-menu {
-  background: #000000;
-}
-#menu-0 .nav-dropdown-sm .link:focus,
-#menu-0 .nav-dropdown-sm .link:hover,
-#menu-0 .nav-dropdown-sm .dropdown-item:focus,
-#menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu-0 .navbar,
-#menu-0 .nav-dropdown-sm,
-#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu-0 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-0 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-0 .bg-color.transparent.opened .link:hover,
-#menu-0 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-0 .link[aria-expanded="true"],
-#menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-0 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-0 .close-icon::before,
-#menu-0 .close-icon::after {
-  background-color: #ffffff;
 }
 
 
