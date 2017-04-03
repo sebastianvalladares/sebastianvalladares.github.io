@@ -1992,7 +1992,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -2002,7 +2002,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ohhh-614x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sebastian-valladares-png-384x1282.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2219,26 +2219,6 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5i",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#101010",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_styles": {
