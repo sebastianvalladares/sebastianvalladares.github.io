@@ -828,9 +828,19 @@ h6,
 #header3-5e .mbr-section-subtitle {
   text-align: center;
 }
-#header3-2p .mbr-section-title,
-#header3-2p .mbr-section-subtitle {
+#header3-5l .mbr-section-title,
+#header3-5l .mbr-section-subtitle {
   text-align: center;
+}
+#header3-5l SMALL {
+  color: #ffffff;
+}
+#header3-5l H3 {
+  color: #ffffff;
+  text-align: right;
+}
+#image2-5c DIV {
+  color: #475577;
 }
 #header3-5a .mbr-section-title,
 #header3-5a .mbr-section-subtitle {

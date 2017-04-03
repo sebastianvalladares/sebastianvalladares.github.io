@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 200,
+    "uniqCompNum": 205,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -118,7 +118,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -478,7 +478,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -725,7 +725,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -778,7 +778,7 @@
           },
           "title": "Worling on it....",
           "text": "Thsi part will be updated eventually when I get a certifaction or when I start working on the programs.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Working on it...</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Working on it...</a> "
         },
         {
           "_inherit": "social-buttons2",
@@ -921,7 +921,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -2002,7 +2002,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sebastian-valladares-png-384x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/sebastian-valladares-png-384x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2061,7 +2061,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#101010",
+            "bgColor": "#1e1c1c",
             "showMeta": false
           },
           "title": "",
@@ -2166,7 +2166,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#101010",
+            "bgColor": "#1e1c1c",
             "showMeta": false
           },
           "title": "",
@@ -2176,21 +2176,28 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "right"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2p",
+          "_anchor": "header3-5l",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#000000",
             "showMeta": true
           },
-          "title": "",
-          "meta": ""
+          "title": "&nbsp;Sebastian Valladares Intro.",
+          "meta": "&nbsp;Click the Turtle to enter."
         },
         {
           "_tags": [
@@ -2207,7 +2214,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1400x291.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sebastian-valladers-1400x291.jpg",
               "width": 1400,
               "link": "https://youtu.be/Oq9aBQpaC1o",
               "alt": "",
@@ -2218,7 +2225,12 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            }
+          }
         },
         {
           "_styles": {
@@ -2401,7 +2413,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -2824,7 +2836,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -2877,7 +2889,7 @@
           },
           "title": "Working on it...",
           "text": "Thsi part will be updated eventually when I get a certifaction or when I start working on the programs.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Wroking on it...</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Wroking on it...</a> "
         },
         {
           "_inherit": "social-buttons2",
@@ -3037,7 +3049,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -3090,7 +3102,7 @@
           },
           "title": "Working on it...",
           "text": "Thsi part will be updated eventually when I get a certifaction or when I start working on the programs.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Working on it...</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Working on it...</a> "
         },
         {
           "_inherit": "social-buttons2",
@@ -3250,7 +3262,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -3463,7 +3475,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -3516,7 +3528,7 @@
           },
           "title": "Working on it...",
           "text": "Thsi part will be updated eventually when I get a certifaction or when I start working on the programs<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Working on it...</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Working on it...</a> "
         },
         {
           "_inherit": "social-buttons2",
