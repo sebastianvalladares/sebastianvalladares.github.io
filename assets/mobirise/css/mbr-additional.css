@@ -490,8 +490,8 @@ h6,
 #header3-40 .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons4-3o .mbr-section-title,
-#social-buttons4-3o .btn-social {
+#social-buttons4-60 .mbr-section-title,
+#social-buttons4-60 .btn-social {
   color: #fff;
 }
 #menu-0 .hide-buttons .nav-btn {
@@ -1250,5 +1250,76 @@ h6,
 }
 #social-buttons4-4n .mbr-section-title,
 #social-buttons4-4n .btn-social {
+  color: #fff;
+}
+#menu-5w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-5w .navbar-caption {
+  color: #ffffff;
+}
+#menu-5w .navbar-toggler {
+  color: #ffffff;
+}
+#menu-5w .link,
+#menu-5w .dropdown-item {
+  color: #ffffff;
+}
+#menu-5w .link {
+  font-size: 0.7rem;
+}
+#menu-5w .dropdown-item,
+#menu-5w .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#menu-5w .link:hover,
+#menu-5w .dropdown-item:hover,
+#menu-5w .link:focus,
+#menu-5w .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-5w .link[aria-expanded="true"],
+#menu-5w .dropdown-menu {
+  background: #000000;
+}
+#menu-5w .nav-dropdown-sm .link:focus,
+#menu-5w .nav-dropdown-sm .link:hover,
+#menu-5w .nav-dropdown-sm .dropdown-item:focus,
+#menu-5w .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-5w .navbar,
+#menu-5w .nav-dropdown-sm,
+#menu-5w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-5w .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-5w .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-5w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-5w .bg-color.transparent.opened .link:hover,
+#menu-5w .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-5w .link[aria-expanded="true"],
+#menu-5w .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-5w.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-5w .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-5w .close-icon::before,
+#menu-5w .close-icon::after {
+  background-color: #ffffff;
+}
+#social-buttons4-5y .mbr-section-title,
+#social-buttons4-5y .btn-social {
   color: #fff;
 }
