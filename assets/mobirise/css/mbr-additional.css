@@ -412,6 +412,10 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#social-buttons4-64 .mbr-section-title,
+#social-buttons4-64 .btn-social {
+  color: #fff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -490,9 +494,9 @@ h6,
 #header3-40 .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons4-60 .mbr-section-title,
-#social-buttons4-60 .btn-social {
-  color: #fff;
+#header3-61 .mbr-section-title,
+#header3-61 .mbr-section-subtitle {
+  text-align: center;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;

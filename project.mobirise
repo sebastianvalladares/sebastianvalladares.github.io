@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 217,
+    "uniqCompNum": 221,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -34,6 +34,71 @@
         "order": 4
       },
       "components": [
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-64",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCRtYvUgWh36dqX88roOFd0w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2n",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bonsey-gorillaz-by-fabriziothekick-ass-d3g4h52-copy-128x219.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>15015 SW 24 STREET MIAMI, FL 33185<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: svalladares@miamiartsstudio.com<br>\nPhone: 786-780-8901<br><br>",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+        },
         {
           "_name": "footer1",
           "_anchor": "footer1-9",
@@ -285,6 +350,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/abstractfg-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/abstractfg-2000x1333.jpg",
                 "caption": "Abstract Graffiti",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sebastian-valladares-propaganda-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sebastian-valladares-propaganda-2000x2000.jpg",
+                "caption": "Inspired Banksy Art",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sebastian-valladares-gorillaz-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sebastian-valladares-gorillaz-2000x2000.jpg",
+                "caption": "Daze Album Cover",
                 "active": true
               }
             ],
@@ -321,69 +406,24 @@
           "meta": ""
         },
         {
-          "_inherit": "social-buttons2",
           "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-60",
+          "_name": "header3",
+          "_anchor": "header3-61",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///C:/Users/0373266/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x3000.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showMeta": true
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCRtYvUgWh36dqX88roOFd0w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-3i",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bonsey-gorillaz-by-fabriziothekick-ass-d3g4h52-copy-128x219.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>15015 SW 24 STREET MIAMI, FL 33185<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: svalladares@miamiartsstudio.com<br>\nPhone: 786-780-8901<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "title": "",
+          "meta": ""
         }
       ]
     },
