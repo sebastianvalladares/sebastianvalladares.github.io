@@ -404,26 +404,6 @@
           },
           "title": "",
           "meta": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-61",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": ""
         }
       ]
     },
