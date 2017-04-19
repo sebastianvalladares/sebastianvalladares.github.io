@@ -305,6 +305,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sebastian-valladares-gorillaz-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sebastian-valladares-gorillaz-2000x2000.jpg",
                 "caption": "Daze Album Cover",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yo-thats-a-nut-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/yo-thats-a-nut-2000x2000.jpg",
+                "caption": "Illumanati Poster",
                 "active": true
               }
             ],
