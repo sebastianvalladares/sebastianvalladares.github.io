@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page12.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 236,
+    "uniqCompNum": 239,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -4046,6 +4046,45 @@
           "title": "My Music",
           "text": "I will be linking Music and Albums very soon<br>and some possible Music videos<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.youtube.com/channel/UCPiJENEcqk0LG7k0cOtFoNw\" data-toolbar=\"-mbrBtnMove\">My Channel For Music</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "Home Sick Music Video",
+          "meta": "enjoy the video"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-6m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=PJVciKtd5qk\" data-toolbar=\"-mbrBtnMove\">Click to wacth</a>"
         },
         {
           "_inherit": "social-buttons2",
