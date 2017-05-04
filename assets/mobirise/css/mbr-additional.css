@@ -928,6 +928,10 @@ h6,
   font-family: 'Indie Flower', cursive;
   color: #d3d3d3;
 }
+#header3-6j .mbr-section-title,
+#header3-6j .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-3u .mbr-section-title,
 #header3-3u .mbr-section-subtitle {
   text-align: center;
