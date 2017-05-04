@@ -3923,7 +3923,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -3978,6 +3978,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-68",
           "_params": {
             "parallax": true,
@@ -4000,12 +4005,7 @@
           },
           "title": "My Music",
           "text": "I will be linking Music and Albums very soon<br>and some possible Music videos<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">My Channel For Music</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.youtube.com/channel/UCPiJENEcqk0LG7k0cOtFoNw\" data-toolbar=\"-mbrBtnMove\">My Channel For Music</a> "
         },
         {
           "_inherit": "social-buttons2",
